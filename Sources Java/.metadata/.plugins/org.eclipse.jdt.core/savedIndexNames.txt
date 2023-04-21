@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\CTDL _ GT Java\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+4104670498.index
+2490352839.index
