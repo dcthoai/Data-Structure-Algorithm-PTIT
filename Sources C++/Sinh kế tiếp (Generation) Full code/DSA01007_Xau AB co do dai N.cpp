@@ -2,7 +2,7 @@
 
 using namespace std;
 
-void nextAB(string s, int n){
+void Sinh_nhi_phan_AB(string s, int n){
 	while(1){
 		int j = n-1;
 		while(j>=0 && s[j] == 'B'){
@@ -25,9 +25,10 @@ int main(){
 		for(int i=0; i<n; ++i)
 			s+="A";
 		cout<<s<<' ';
-		nextAB(s, n);
+		Sinh_nhi_phan_AB(s, n);
 		cout<<endl;
 	}
+
 	return 0;
 }
 

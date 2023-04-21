@@ -20,7 +20,8 @@ void Try(int a[], int b[], int n){
     Try(a, b, n-1);
 }
 
-int main(){
+int main()
+{
     int t;
     cin>>t;
     while(t--){
@@ -33,5 +34,3 @@ int main(){
     }
     return 0;
 }
-
-
